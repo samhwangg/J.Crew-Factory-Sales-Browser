@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import plotly.plotly as py
 from plotly.graph_objs import *
-py.sign_in("samhwangg", "EWiWKDPlRxvS2RgAd8YG")
+py.sign_in("*PLOTLY USERNAME HERE", "PLOTLY API HERE")
 
 # test connection
 def connectSQL():
