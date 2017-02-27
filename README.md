@@ -6,6 +6,7 @@ A Python program to search the sales pages of J.Crew Factory, scrape information
 <hr>
  - Searches through all the pages of J.Crew Factory Sales 
  - Uploads the name, original price, and discount price of all items and inputs them into a MySQL table
+ - If recorded for multiple days, you are able to view the changing price of an item due to the name of the product being a Primary Key in MySQL (Products with the same name displayed will not be recorded more than one time)
  - Able to customize the name of the table 
  - Pulls all data from SQL table and plots them into Plotly (personal API needed)
  - Ex) [Graph of Sales from 2/27](https://plot.ly/~samhwangg/4/original-price-vs-discount-price/?share_key=oqEDwhWqIyTtw9xWLYqwfP)
