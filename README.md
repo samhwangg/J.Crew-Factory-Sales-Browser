@@ -14,10 +14,12 @@ A Python program to search the sales pages of J.Crew Factory, scrape information
 <h1> Modules Needed/Used </h1>
 <hr> 
 1. Beautiful Soup 4
-2. My.SQL Connector
-2. Pandas
-3. Plotly 
+2. ConfigParser
+3. My.SQL Connector
 4. Numpy
+5. Pandas
+6. Plotly 
+ 
 </hr>
 
 <h1> Notes </h1>
